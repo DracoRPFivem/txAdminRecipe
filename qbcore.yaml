@@ -49,42 +49,42 @@ tasks:
   - action: download_github
     dest: ./resources/[standalone]/bob74_ipl
     ref: master
-    src: https://github.com/qbcore-framework/bob74_ipl
+    src: https://github.com/DracoRPFivem/bob74_ipl
     
   - action: download_github
     dest: ./resources/[standalone]/safecracker
     ref: main
-    src: https://github.com/qbcore-framework/safecracker
+    src: https://github.com/DracoRPFivem/safecracker
     
   - action: download_github
     dest: ./resources/[standalone]/screenshot-basic
     ref: master
-    src: https://github.com/citizenfx/screenshot-basic
+    src: https://github.com/DracoRPFivem/screenshot-basic
 
   - action: download_github
     dest: ./resources/[standalone]/progressbar
     ref: main
-    src: https://github.com/qbcore-framework/progressbar
+    src: https://github.com/DracoRPFivem/progressbar
 
   - action: download_github
     dest: ./resources/[standalone]/interact-sound
     ref: master
-    src: https://github.com/qbcore-framework/interact-sound
+    src: https://github.com/DracoRPFivem/interact-sound
     
   - action: download_github
     dest: ./resources/[standalone]/mhacking
     ref: main
-    src: https://github.com/qbcore-framework/mhacking
+    src: https://github.com/DracoRPFivem/mhacking
 
   - action: download_github
     dest: ./resources/[standalone]/connectqueue
     ref: master
-    src: https://github.com/qbcore-framework/connectqueue
+    src: https://github.com/DracoRPFivem/connectqueue
 
   - action: download_github
     dest: ./resources/[standalone]/dpemotes
     ref: master
-    src: https://github.com/qbcore-framework/dpemotes
+    src: https://github.com/DracoRPFivem/dpemotes
 
   - action: download_github
     dest: ./resources/[standalone]/PolyZone
@@ -100,7 +100,7 @@ tasks:
   - action: download_github
     dest: ./resources/[voice]/pma-voice
     ref: main
-    src: https://github.com/AvarianKnight/pma-voice
+    src: https://github.com/DracoRPFivem/pma-voice
 
   - action: download_github
     dest: ./resources/[voice]/qb-radio
@@ -181,7 +181,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-hud
     ref: main
-    src: https://github.com/qbcore-framework/qb-hud
+    src: https://github.com/DracoRPFivem/qb-hud
 
   - action: download_github
     dest: ./resources/[qb]/qb-management
@@ -196,7 +196,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-lapraces
     ref: main
-    src: https://github.com/qbcore-framework/qb-lapraces
+    src: https://github.com/DracoRPFivem/qb-lapraces
 
   - action: download_github
     dest: ./resources/[qb]/qb-inventory
@@ -221,7 +221,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-vehiclefailure
     ref: main
-    src: https://github.com/qbcore-framework/qb-vehiclefailure
+    src: https://github.com/DracoRPFivem/qb-vehiclefailure
 
   - action: waste_time # prevent github throttling
     seconds: 10
@@ -239,7 +239,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-weathersync
     ref: main
-    src: https://github.com/qbcore-framework/qb-weathersync
+    src: https://github.com/DracoRPFivem/qb-weathersync
 
   - action: download_github
     dest: ./resources/[qb]/qb-policejob
@@ -259,7 +259,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-vehiclekeys
     ref: main
-    src: https://github.com/qbcore-framework/qb-vehiclekeys
+    src: https://github.com/DracoRPFivem/qb-vehiclekeys
 
   - action: download_github
     dest: ./resources/[qb]/qb-mechanicjob
